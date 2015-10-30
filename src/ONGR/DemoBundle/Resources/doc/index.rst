@@ -18,7 +18,11 @@ This might change in the future but for now you either need Linux/Unix based env
 Step 2: Download ONGR
 ---------------------
 
-There is an option to download ONGR using composer but this needs some updates, so for now please use the git clone option.
+You can download the latest release using `composer <https://getcomposer.org/download>`_ by typing:
+
+.. code-block:: bash
+
+    composer create-project ongr/ongr-sandbox --no-interaction
 
 ..
 
